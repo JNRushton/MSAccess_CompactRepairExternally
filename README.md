@@ -60,8 +60,8 @@ Press Enter on keyboard, and compact & repair process should run.
 
 ## Authors
 
-* **Jennifer Rushton** - *Initial work*
+* **Jennifer Rushton** - *Initial work* - https://github.com/JNRushton/
 
 ## Acknowledgements
 
-* Thank you PurpleBooth for your ReadMe template (https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/8254b53ab8dcb18afc64287aaddd9e5b6059f880/README-Template.md)
+* Thank you PurpleBooth for your ReadMe template: https://gist.githubusercontent.com/PurpleBooth/109311bb0361f32d87a2/raw/8254b53ab8dcb18afc64287aaddd9e5b6059f880/README-Template.md
